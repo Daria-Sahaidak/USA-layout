@@ -1,0 +1,92 @@
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+}
+
+.header{
+    background-color: #f2f2f3;
+    height: 181px;
+    border-top: solid 8px #b12d2b;
+    border-bottom: solid 56px #2d4a7a;
+}
+.header_div{
+    margin: auto;
+    max-width: 960px;
+    padding-top: 44px;
+}
+.signature_div{
+    height: 50px;
+    background-color: #eaeaea;
+    padding-top: 19px;
+    text-align: center;
+}
+.signature{
+    color: #2d4a7a;
+    font-size: 16px;
+}
+.block{
+    background-color: #f4f4f4;
+    max-width: 740px;
+    margin: auto;
+    padding-top: 23px;
+    padding-bottom: 110px;
+    padding-left: 20px;
+    padding-right: 28px;
+}
+.text1{
+    font-size: 25px;
+    color: #2d4a7a;
+    margin-bottom: 21px;
+}
+.text2{
+    font-size: 16px;
+    color: #7b7a7a;
+    margin-bottom: 28px;
+}
+.text3{
+    font-size: 18px;
+    color: #2d4a7a;
+    margin-bottom: 20px;
+}
+.text4{
+    font-size: 16px;
+    color: #2d4a7a;
+    margin-bottom: 20px;
+}
+.text5{
+    font-size: 15px;
+    color: #b54a39;
+    margin-bottom: 20px;
+}
+.text6{
+    font-size: 14px;
+    color: #606060;
+    margin-bottom: 20px;
+}
+.text7{
+    font-size: 12.98px;
+    color: #7b7a7a;
+    margin-bottom: 20px;
+}
+.list{
+    font-size: 12.98px;
+    color: #7b7a7a;
+    margin-bottom: 20px;
+    margin-left: 20px;
+}
+.list_indent{
+    margin-bottom: 20px;
+}
+.link{
+    font-size: 14px;
+    color: #2d4a7a;
+    margin-left: 20px;
+}
+.footer{
+    background-color: #2d4a7a;
+    height: 405px;
+}
+
+
+
